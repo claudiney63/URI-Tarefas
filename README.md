@@ -1,2 +1,2 @@
 # URI
-Questões resolvidas da plataforma URI Online Judge
+Questões resolvidas da plataforma URI Online Judge - beecrowd
